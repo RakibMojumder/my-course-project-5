@@ -115,7 +115,6 @@ body {
 }
 
 .slider-element .slider-element-img {
-    width: 70px;
     height: auto;
     object-fit: contain;
 }
@@ -130,7 +129,7 @@ body {
 .popular-section-tittle h2 {
     text-align: center;
     color: #3A3A3A;
-    margin-bottom: 30px;
+    margin: 30px 0;
 }
 
 .popular-section-items {
@@ -261,9 +260,9 @@ body {
         width: 100%;
     }
 
-    /* .header-section {
+    .header-section {
         display: none;
-    } */
+    }
 
     /* banner section responsive CSS */
 
